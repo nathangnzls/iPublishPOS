@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent">
+
+    <item android:title="Home"
+        android:icon="@mipmap/ic_home"
+        android:id="@+id/homeBtn"/>
+
+    <item android:title="Add/Remove Categories"
+        android:icon="@mipmap/ic_category"
+        android:id="@+id/categoriesBtn"/>
+
+    <item android:title="Reports"
+        android:icon="@mipmap/ic_reports"
+        android:id="@+id/reportsBtn"/>
+
+    <item android:title="About"
+        android:icon="@mipmap/ic_about"
+        android:id="@+id/aboutBtn"/>
+
+</menu>
